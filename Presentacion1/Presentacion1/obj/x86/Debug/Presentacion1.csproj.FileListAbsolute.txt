@@ -1,0 +1,8 @@
+/home/antonio/Projects/Presentacion1/Presentacion1/bin/Debug/Presentacion1.exe
+/home/antonio/Projects/Presentacion1/Presentacion1/bin/Debug/Presentacion1.pdb
+/home/antonio/Projects/Presentacion1/Presentacion1/bin/Debug/MySql.Data.dll
+/home/antonio/Projects/Presentacion1/Presentacion1/bin/Debug/Google.Protobuf.dll
+/home/antonio/Projects/Presentacion1/Presentacion1/bin/Debug/MySql.Data.xml
+/home/antonio/Projects/Presentacion1/Presentacion1/obj/x86/Debug/Presentacion1.csproj.CoreCompileInputs.cache
+/home/antonio/Projects/Presentacion1/Presentacion1/obj/x86/Debug/Presentacion1.exe
+/home/antonio/Projects/Presentacion1/Presentacion1/obj/x86/Debug/Presentacion1.pdb

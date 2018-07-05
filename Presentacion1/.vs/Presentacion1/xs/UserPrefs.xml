@@ -1,0 +1,21 @@
+﻿<Properties StartupConfiguration="{ABEA4EAB-65D6-40B0-93D1-12580773FEAA}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Presentacion1/vista/Program.cs">
+    <Files>
+      <File FileName="Presentacion1/vista/Program.cs" Line="123" Column="55" />
+      <File FileName="Presentacion1/logica/LogicaUsuario.cs" Line="88" Column="87" />
+      <File FileName="Presentacion1/logica/LogicaEntrenador.cs" Line="22" Column="71" />
+      <File FileName="Presentacion1/logica/logicaJugador.cs" Line="22" Column="74" />
+      <File FileName="Presentacion1/logica/LogicaDevolverUsuario.cs" Line="31" Column="1" />
+      <File FileName="Presentacion1/modelo/Jugador.cs" Line="1" Column="1" />
+      <File FileName="Presentacion1/modelo/DevolverUsuario.cs" Line="1" Column="1" />
+      <File FileName="Presentacion1/modelo/Entrenador.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.Presentacion1 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
